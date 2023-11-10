@@ -14,3 +14,6 @@ Continued work on this feature - we'll call it:
 ## Feature 2
 
 This is feature 2. 
+
+
+## Change 3 by Ted 
