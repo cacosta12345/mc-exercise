@@ -13,10 +13,22 @@ Continued work on this feature - we'll call it:
 
 ## Feature 2
 
+ted23
+This is feature 2. 
+
+
+## Change 3 by Ted 
+
 This is feature 2.
 
 Im looking forward to the weekend!
 
 I broke more stuff
 
+
 let me break more stuff 
+
+main
+
+Let's see how much Alice can mess things up
+
